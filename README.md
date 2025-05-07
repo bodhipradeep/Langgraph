@@ -20,5 +20,20 @@ An advanced multi-agent AI assistant that dynamically routes user queries throug
 
 ---
 
-## 🚀 Getting Started
+## Tech Stack
+- LangGraph – For state-machine-based LLM logic
+- LangChain – Core framework for LLM chaining
+- Streamlit – UI layer for interaction
+- External APIs – Including Tavily, Arxiv, Wikipedia
 
+---
+
+## 📄 License
+This repository is licensed under the MIT License. See the LICENSE file for details.
+
+--- 
+
+## 🔗 Links & Contact
+- GitHub Profile: [Gith]GitHub
+- LinkedIn: LinkedIn
+- Email: pradeep.kumar8@gmail.com
