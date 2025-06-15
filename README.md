@@ -31,7 +31,7 @@ An advanced multi-agent AI assistant that dynamically routes user queries throug
 
 ## 📄 License
 
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE).
 
 --- 
 
