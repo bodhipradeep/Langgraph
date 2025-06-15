@@ -2,7 +2,7 @@
 
 A growing collection of AI projects using [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](https://github.com/langchain-ai/langchain), and other open-source tools to build intelligent, graph-driven LLM applications.
 
-This repository is maintained by [pradeep-kumar8](https://github.com/pradeep-kumar8) and is designed to host modular, state-machine-powered AI agents — each within its own subfolder.
+This repository is maintained by [bodhipradeep](https://github.com/bodhipradeep) and is designed to host modular, state-machine-powered AI agents — each within its own subfolder.
 
 ---
 
@@ -37,6 +37,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🔗 **Links & Contact**
 
-- **GitHub Profile:** [Github](https://github.com/pradeep-kumar8/)
-- **LinkedIn:** [Likedin](https://linkedin.com/in/pradeep-kumar8)
+- **GitHub Profile:** [Github](https://github.com/bodhipradeep/)
+- **LinkedIn:** [Likedin](https://linkedin.com/in/bodhi-pradeep)
 - **Email:** [gmail](mailto:pradeep.kmr.pro@gmail.com)
